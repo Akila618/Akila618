@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Akila Wanninayake!
+# 👋 Hey there, I'm Akila Wanninayake!
 
 🔹 **Systems Engineering | Cloud | Rust | Application Development Enthusiast**  
 🔹 Passionate about **Rust, Kubernetes, Linux, and Cloud Solutions**  
@@ -26,8 +26,8 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/akila-wanninayake-4340b0217/))
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akila618)
 
 ---
 
