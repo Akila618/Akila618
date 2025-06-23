@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Akila Wanninayake!
 
 🔹 **Systems Engineering | Cloud | Rust | Application Development Enthusiast**  
-🔹 Passionate about **Rust, Kubernetes, Linux, and Cloud Solutions**  
+🔹 Passionate about **Rust, Linux, and Cloud Solutions**  
 🔹 Currently learning and working on **high-performance, mission-critical systems, cloud-based solutions, Rust programming**
 
 ---
@@ -9,19 +9,18 @@
 ### 🚀 About Me
 - 🎓 Software Engineering student passionate about **Systems programming & Architecture**
 - 💻 Love building scalable and efficient solutions in **Rust**
-- ☁️ Exploring **Kubernetes, Docker, and cloud-native development**
+- ☁️ Exploring **cloud-native development**
 - 🔬 Interested in **IoT, network programming, and distributed systems**
-- 📖 Always learning new things about **Linux, cloud, and automation**
+- 📖 Always learning new things about **Linux, cloud, and low-level programming**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 ---
 
